@@ -29,6 +29,7 @@ The Internet Health Report monitors the conditions of networks that compose the 
 </table>
 
 ## Contributing to the ecosystem
+
 We love to build our product in public. We welcome all sorts of contributions. When contributing please first discuss the change you wish to make via issue with the maintainers before making a change. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to the project in a pull request.
 
 1. Solve the issues which are listed
@@ -44,7 +45,7 @@ Please refer to the project's style and contribution guidelines for submitting p
 6. Rebase your branch with the master branch
 7. Submit your Pull Request so that we can review it
 
-Please submit your issues and pull request while following the automated template. During the contributing phase abide by the Contributing Guidelines and Code of Conduct.
+Please submit your issues and pull request while following the automated template. During the contributing phase abide by the <a href="https://github.com/InternetHealthReport/.github/blob/main/CONTRIBUTING.md">Contributing Guidelines</a> and <a href="https://github.com/InternetHealthReport/.github/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a>.
 
 ---
 
@@ -52,15 +53,14 @@ Please submit your issues and pull request while following the automated templat
 <p align="center"> 
 &nbsp; 
 <a href="mailto:ihr-admin@iij-ii.co.jp"><img alt="email_logo" 
-src=""></a>
+src="../icons/gmail-icon-ihr.svg" height="50" width="50"></a>
 &nbsp;
 <a href="https://join.slack.com/t/internethealthreport/shared_invite/zt-19d4e48py-~oirVwkINe01gTVEF3o4Kw"><img alt="slack_logo" 
-src=""></a>
+src="../icons/slack-icon-ihr.svg" height="50" width="50"></a>
 &nbsp;
 <a href="https://twitter.com/ihr_alerts"><img alt="twitter_logo" 
-src=""></a>
+src="../icons/twitter-icon-ihr.svg" height="50" width="50"></a>
 &nbsp;
 <a href="https://github.com/InternetHealthReport"><img alt="github_logo" 
-src=""></a>
+src="../icons/github-icon-ihr.svg"height="50" width="50"></a>
 &nbsp;
-
