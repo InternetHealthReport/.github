@@ -62,5 +62,5 @@ src="../icons/slack-icon-ihr.svg" height="50" width="50"></a>
 src="../icons/twitter-icon-ihr.svg" height="50" width="50"></a>
 &nbsp;
 <a href="https://github.com/InternetHealthReport"><img alt="github_logo" 
-src="../icons/github-icon-ihr.svg"height="50" width="50"></a>
+src="../icons/github-icon-ihr-blue.svg"height="50" width="50"></a>
 &nbsp;
