@@ -53,14 +53,14 @@ Please submit your issues and pull request while following the automated templat
 <p align="center"> 
 &nbsp; 
 <a href="mailto:ihr-admin@iij-ii.co.jp"><img alt="email_logo" 
-src="../icons/gmail-icon-ihr.svg" height="50" width="50"></a>
+src="https://raw.githubusercontent.com/InternetHealthReport/.github/980ae67f8aa6e83511b3c70044b71c4e81e84ad3/icons/gmail-icon-ihr.svg" height="50" width="50"></a>
 &nbsp;
 <a href="https://join.slack.com/t/internethealthreport/shared_invite/zt-19d4e48py-~oirVwkINe01gTVEF3o4Kw"><img alt="slack_logo" 
-src="../icons/slack-icon-ihr.svg" height="50" width="50"></a>
+src="https://raw.githubusercontent.com/InternetHealthReport/.github/980ae67f8aa6e83511b3c70044b71c4e81e84ad3/icons/slack-icon-ihr.svg" height="50" width="50"></a>
 &nbsp;
 <a href="https://twitter.com/ihr_alerts"><img alt="twitter_logo" 
-src="../icons/twitter-icon-ihr.svg" height="50" width="50"></a>
+src="https://raw.githubusercontent.com/InternetHealthReport/.github/980ae67f8aa6e83511b3c70044b71c4e81e84ad3/icons/twitter-icon-ihr.svg" height="50" width="50"></a>
 &nbsp;
 <a href="https://github.com/InternetHealthReport"><img alt="github_logo" 
-src="../icons/github-icon-ihr-blue.svg"height="50" width="50"></a>
+src="https://raw.githubusercontent.com/InternetHealthReport/.github/980ae67f8aa6e83511b3c70044b71c4e81e84ad3/icons/github-icon-ihr-blue.svg"height="50" width="50"></a>
 &nbsp;
