@@ -4,30 +4,6 @@
 The Internet Health Report monitors the conditions of networks that compose the Internet. This effort aims to provide network operators, policymakers, and other stakeholders, with a better understanding of the Internet's infrastructure and its evolution. Our main website is <a href="https://ihr.iijlab.net">https://ihr.iijlab.net</a>
 </p>
 
-# Terminologies
-
-<table border="0" style="display:contents">
- <tr>
-   <!-- Network dependency -->
-   <td width=500px><h2 align="center">AS Dependency</h3><p align="center"> Networks connected to the Internet inherently rely on other networks to reach the rest of the world. The Internet Health Report quantifies the inter-dependency of networks using global routing information (BGP), hence improving our understanding of networks connectivity and resiliency.Learn more about <a href="https://ihr.iijlab.net/ihr/en-us/documentation#AS_dependency">AS Dependency</a>
-   </td>
-  
-  <!-- Network Delay -->
-   <td width=500px><h2 align="center">Network Delay</h3><p align="center">Delay is a key metric when assessing the performance or conditions of a network. The Internet Health Report infers network delays between ASes, cities, and Internet landmarks from traceroute data. Learn more about <a href="https://ihr.iijlab.net/ihr/en-us/documentation#Network_delay">Network Delays</a>
-</td>
-    
- </tr>
-  <tr></tr>
-      <tr>
-  <!-- Service Mesh Performance -->
- <td width=500px><h2 align="center"> Link Monitoring</h3><p align="center">Network congestion is another key indicator of network conditions. The Internet Health Report pinpoints link congestion and abnormal forwarding patterns using traceroute data. Learn more about <a href="https://ihr.iijlab.net/ihr/en-us/documentation#Delay_and_forwarding_anomalies">Link Monitoring</a>
-</td>
-  <!-- Service Mesh Patterns -->
-   <td width=500px><h2 align="center"> Disconnection</h3><p align="center">The worst-case scenario is the complete disconnection of a network from the Internet. The Internet Health Report infers data plane disruptions by monitoring the connectivity of RIPE Atlas probes.Learn more about <a href="https://ihr.iijlab.net/ihr/en-us/documentation#Network_disconnections">Disconnection</td>
- </tr>
-   <tr>
-</table>
-
 ## Architecture / Repositories
 
 The following diagram shows the overall architecture of the Internet Health Report. Click on labels to see corresponding source code:
