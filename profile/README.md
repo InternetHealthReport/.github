@@ -34,7 +34,7 @@ The following diagram shows the overall architecture of the Internet Health Repo
 <img src='https://raw.githubusercontent.com/InternetHealthReport/system-design/main/IHR_overall_diagram.svg'/>
 
 
-## Contributing to the ecosystem
+## Contributing to IHR
 
 We love to build our product in public. We welcome all sorts of contributions. When contributing please first discuss the change you wish to make via issue with the maintainers before making a change. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to the project in a pull request.
 
