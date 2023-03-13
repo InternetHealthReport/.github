@@ -11,7 +11,7 @@ The following diagram shows the overall architecture of the Internet Health Repo
 
 ## Contributing to IHR
 
-We love to build our product in public. We welcome all sorts of contributions. Plesase see [IHR Handbook for contributors](https://github.com/InternetHealthReport/gsoc/blob/main/ihr-contributor-handbook.md) to learn about IHR's goal, IHR's projects, and how to contribute. 
+We love to build our product in public. We welcome all sorts of contributions. Please see [IHR Handbook for contributors](https://github.com/InternetHealthReport/gsoc/blob/main/ihr-contributor-handbook.md) to learn about IHR's goal, IHR's projects, and how to contribute. 
 
 ### Guidelines
 When contributing please first discuss the change you wish to make via issue with the maintainers before making a change. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to the project in a pull request.
