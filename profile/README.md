@@ -5,14 +5,16 @@ The Internet Health Report monitors the conditions of networks that compose the 
 </p>
 
 ## Architecture / Repositories
-
 The following diagram shows the overall architecture of the Internet Health Report. Click on labels to see corresponding source code:
 <img src='https://raw.githubusercontent.com/InternetHealthReport/system-design/main/IHR_overall_diagram.svg'/>
 
 
 ## Contributing to IHR
 
-We love to build our product in public. We welcome all sorts of contributions. When contributing please first discuss the change you wish to make via issue with the maintainers before making a change. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to the project in a pull request.
+We love to build our product in public. We welcome all sorts of contributions. Plesase see [IHR Handbook for contributors](https://github.com/InternetHealthReport/gsoc/blob/main/ihr-contributor-handbook.md) to learn about IHR's goal, IHR's projects, and how to contribute. 
+
+### Guidelines
+When contributing please first discuss the change you wish to make via issue with the maintainers before making a change. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to the project in a pull request.
 
 1. Solve the issues which are listed
 2. Create your own issue and then send PR.
