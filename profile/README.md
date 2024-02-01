@@ -43,7 +43,7 @@ src="https://raw.githubusercontent.com/InternetHealthReport/.github/980ae67f8aa6
 src="https://raw.githubusercontent.com/InternetHealthReport/.github/980ae67f8aa6e83511b3c70044b71c4e81e84ad3/icons/slack-icon-ihr.svg" height="50" width="50"></a>
 &nbsp;
 <a href="https://twitter.com/ihr_alerts"><img alt="twitter_logo" 
-src="https://raw.githubusercontent.com/InternetHealthReport/.github/980ae67f8aa6e83511b3c70044b71c4e81e84ad3/icons/twitter-icon-ihr.svg" height="50" width="50"></a>
+src="https://raw.githubusercontent.com/MAVRICK-1/.github/ef7362199416b83e7f9ebd18e16a74ef2c5de417/icons/x-twitter-icon-ihr.svg" height="50" width="50"></a>
 &nbsp;
 <a href="https://github.com/InternetHealthReport"><img alt="github_logo" 
 src="https://raw.githubusercontent.com/InternetHealthReport/.github/980ae67f8aa6e83511b3c70044b71c4e81e84ad3/icons/github-icon-ihr-blue.svg"height="50" width="50"></a>
