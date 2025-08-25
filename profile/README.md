@@ -6,7 +6,7 @@ The Internet Health Report monitors the conditions of networks that compose the 
 
 ## Architecture / Repositories
 The following diagram shows the overall architecture of the Internet Health Report. Click on labels to see corresponding source code:
-<img src='https://raw.githubusercontent.com/InternetHealthReport/system-design/main/IHR_overall_diagram.svg'/>
+<img src='https://raw.githubusercontent.com/InternetHealthReport/system-design/refs/heads/main/IHR_overall_diagram.svg'/>
 
 
 ## Contributing to IHR
