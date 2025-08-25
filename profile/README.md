@@ -1,7 +1,7 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/40665700?s=200&v=4" height="150"></p>
 <h1 align="center">Internet Health Report</h1>
 <p align="center">
-The Internet Health Report monitors the conditions of networks that compose the Internet. This effort aims to provide network operators, policymakers, and other stakeholders, with a better understanding of the Internet's infrastructure and its evolution. Our main website is <a href="https://ihr.iijlab.net">https://ihr.iijlab.net</a>
+The Internet Health Report monitors the conditions of networks that compose the Internet. This effort aims to provide network operators, policymakers, and other stakeholders, with a better understanding of the Internet's infrastructure and its evolution. Our main website is <a href="https://www.ihr.live/">https://www.ihr.live/</a>
 </p>
 
 ## Architecture / Repositories
