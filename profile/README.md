@@ -45,6 +45,5 @@ src="https://raw.githubusercontent.com/InternetHealthReport/.github/main/icons/s
 &nbsp;
 <a href="https://github.com/InternetHealthReport"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InternetHealthReport/.github/refs/heads/main/icons/github_light.svg" height="50" width="50"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InternetHealthReport/.github/refs/heads/main/icons/github_dark.svg" height="50" width="50"><img alt="github-logo" src="https://raw.githubusercontent.com/InternetHealthReport/.github/refs/heads/main/icons/github_dark.svg" height="50" width="50"></picture></a>
 &nbsp;
-<a href="https://observablehq.com/@internethealthreport"><img alt="observablehq-logo" 
-src="https://raw.githubusercontent.com/InternetHealthReport/.github/main/icons/observablehq.svg"height="50" width="50" style="background-color:white;border-radius: 5px"></a>
+<a href="https://observablehq.com/@internethealthreport"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InternetHealthReport/.github/refs/heads/main/icons/observablehq_light.svg" height="50" width="50"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InternetHealthReport/.github/refs/heads/main/icons/observablehq_dark.svg" height="50" width="50"><img alt="observablehq-logo" src="https://raw.githubusercontent.com/InternetHealthReport/.github/refs/heads/main/icons/observablehq_dark.svg" height="50" width="50"></picture></a>
 &nbsp;
