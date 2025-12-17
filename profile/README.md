@@ -45,8 +45,11 @@ src="https://raw.githubusercontent.com/InternetHealthReport/.github/main/icons/s
 <a href="https://x.com/ihr_alerts"><img alt="twitter-logo" 
 src="https://raw.githubusercontent.com/InternetHealthReport/.github/main/icons/x-twitter.svg" height="50" width="50" style="background-color:white;border-radius: 5px"></a>
 &nbsp;
-<a href="https://github.com/InternetHealthReport"><img alt="github-logo" 
-src="https://raw.githubusercontent.com/InternetHealthReport/.github/main/icons/github.svg"height="50" width="50" style="background-color:white;border-radius: 5px"></a>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InternetHealthReport/.github/refs/heads/main/icons/github_light.svg" height="50" width="50">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InternetHealthReport/.github/refs/heads/main/icons/github_dark.svg" height="50" width="50">
+<a href="https://github.com/InternetHealthReport"><img alt="github-logo" src="https://raw.githubusercontent.com/InternetHealthReport/.github/refs/heads/main/icons/github_dark.svg" height="50" width="50"></a>
+</picture>
 &nbsp;
 <a href="https://observablehq.com/@internethealthreport"><img alt="observablehq-logo" 
 src="https://raw.githubusercontent.com/InternetHealthReport/.github/main/icons/observablehq.svg"height="50" width="50" style="background-color:white;border-radius: 5px"></a>
