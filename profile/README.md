@@ -40,7 +40,7 @@ Please submit your issues and pull request while following the automated templat
 src="https://raw.githubusercontent.com/InternetHealthReport/.github/main/icons/envelope-regular.svg" height="50" width="50" style="background-color:white;border-radius: 5px"></a>
 &nbsp;
 <a href="https://join.slack.com/t/internethealthreport/shared_invite/zt-30v0csvok-4vOSUyIkkAlM1grwT3ClYA"><img alt="slack-logo"
-src="https://raw.githubusercontent.com/InternetHealthReport/.github/main/icons/slack.svg" height="50" width="50" style="background-color:white;border-radius: 5px"></a>
+src="https://raw.githubusercontent.com/InternetHealthReport/.github/main/icons/slack.svg" height="50" width="50"></a>
 &nbsp;
 <a href="https://x.com/ihr_alerts"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InternetHealthReport/.github/refs/heads/main/icons/x_light.svg" height="50" width="50"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InternetHealthReport/.github/refs/heads/main/icons/x_dark.svg" height="50" width="50"><img alt="x-logo" src="https://raw.githubusercontent.com/InternetHealthReport/.github/refs/heads/main/icons/x_dark.svg" height="50" width="50"></picture></a>
 &nbsp;
