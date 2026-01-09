@@ -9,27 +9,9 @@ The following diagram shows the overall architecture of the Internet Health Repo
 <img src='https://raw.githubusercontent.com/InternetHealthReport/system-design/refs/heads/main/IHR_overall_diagram.svg'/>
 
 
-## Contributing to IHR
+## Contributing to IHR & Guidelines
 
-We love to build our product in public. We welcome all sorts of contributions. Please see [IHR Handbook for contributors](https://github.com/InternetHealthReport/gsoc/blob/main/ihr-contributor-handbook.md) to learn about IHR's goal, IHR's projects, and how to contribute. 
-
-### Guidelines
-When contributing please first discuss the change you wish to make via issue with the maintainers before making a change. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to the project in a pull request.
-
-1. Solve the issues which are listed
-2. Create your own issue and then send PR.
-
-Please refer to the project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow. The basic workflow:
-
-1. Fork the repo on GitHub
-2. Clone the project to your own machine
-3. Create a branch and name it with the issue number
-4. Commit changes to the branch
-5. Push your work back to your fork
-6. Rebase your branch with the master branch
-7. Submit your Pull Request so that we can review it
-
-Please submit your issues and pull request while following the automated template. During the contributing phase abide by the <a href="https://github.com/InternetHealthReport/.github/blob/main/CONTRIBUTING.md">Contributing Guidelines</a> and <a href="https://github.com/InternetHealthReport/.github/blob/main/CODE_OF_CONDUCT.md">Code of Conduct</a>.
+We love to build our product in public. We welcome all sorts of contributions. Please see [IHR Handbook for contributors](https://github.com/InternetHealthReport/gsoc/blob/main/ihr-contributor-handbook.md) to learn about IHR's goal, IHR's projects, IHR's guidelines, and how to contribute.
 
 ---
 
